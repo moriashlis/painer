@@ -1,1 +1,1 @@
-# painer
+# painter
